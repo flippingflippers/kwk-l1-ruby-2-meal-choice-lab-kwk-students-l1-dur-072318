@@ -14,7 +14,7 @@ def dinner (default_food= "salmon")
   puts "The last meal of the day should be your best, so some nice homecooked #{default_food} should be just the right thing to finish up your night."
 end
 
-breakfast(scrambled eggs)
-lunch(macarioni)
-snack(fruit snacks)
-dinner(roast beef stew)
+breakfast
+lunch
+snack
+dinner
